@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "routing-demo"
+  "defaultProject": "routing-demo",
+  "cli": {
+    "analytics": false
+  }
 }
